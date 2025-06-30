@@ -116,9 +116,13 @@ lib/
 By building this app, you will learn:
 
 ✅ Flutter layout design with rows and columns
+
 ✅ State management with `setState`
+
 ✅ Handling user input via `GestureDetector`
+
 ✅ Implementing game logic in Dart
+
 ✅ Structuring a small Flutter project for clarity
 
 
